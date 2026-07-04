@@ -1,0 +1,23 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.rsuser
+
+appsettings.Development.json
+secrets.json
+
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+*.log
+# Ignore real env files
+.env
+.env.*
+
+# But allow example env file
+!.env.example

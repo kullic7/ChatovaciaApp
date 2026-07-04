@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".env" />
+    <File Path=".env.example" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="ChatApp.Api/ChatApp.Api.csproj" />
+  <Project Path="ChatApp.Shared/ChatApp.Shared.csproj" Id="5eac46fd-0f9e-4470-adca-0302a8722fc2" />
+  <Project Path="ChatApp.Wpf/ChatApp.Wpf.csproj" />
+</Solution>
